@@ -33,19 +33,20 @@ function LifePurpose() {
           <div className="text-white font-thin mt-10 text-center">
             <p className="mb-4">
               <span className="font-semibold text-blue-400">Root Number: </span>{" "}
-              It's your intrinsic nature that you are born with.
+              It&apos;s your intrinsic nature that you are born with.
             </p>
             <p className="mb-4">
               <span className="font-semibold text-blue-400">
                 Destiny Number:{" "}
               </span>{" "}
-              It's the thing that your are meant to become in this life.
+              It&apos;s the thing that your are meant to become in this life.
             </p>
             <p>
               <span className="font-semibold text-blue-400">
                 Life Purpose:{" "}
               </span>{" "}
-              It's your journey from your Root number to your Destiny number.
+              It&apos;s your journey from your Root number to your Destiny
+              number.
             </p>
           </div>
 
